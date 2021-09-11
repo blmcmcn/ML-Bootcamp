@@ -1,1 +1,1 @@
-# ML-Bootcamp homeworks and projects
+# repository with homework and projects for ML-Bootcamp
